@@ -1,1 +1,1 @@
-# graphql practice with react
+# graphql practice with react & apollo
